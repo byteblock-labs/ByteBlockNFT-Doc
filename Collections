@@ -1,2 +1,9 @@
 Steps to bring a collection to ByteBlock CSC network
-Deploy your NFT collection contract: If you have NFT contract then use "Remix IDE" to deploy your contrcat. If you don't have your contrcat then connect with byteblock they will deploy onefor you.
+Deploy your NFT collection contract: If you have NFT contract then use "Remix IDE" to deploy your contrcat. If you don't have your contrcat then connect with byteblock they will deploy one for you. After deploying explore it on coinex explorer.
+Once you are done with your contract deployment go ahead with your art creation, seprately upload that to IPFS.
+Create your websit for mint and pre-mint. This is the phase when you sell your tokens.
+Once you are done with Your mint sales come to ByteBlock team
+Byteblock will enable secondary sales. Collect your wallet and based on your wallet your collections will show.
+Check CSCFrog sales on byteblock https://byteblock.io/collection/CscFrogs/token/4
+After that you can put on auction. 
+Relevent royalty will go to creator. 
